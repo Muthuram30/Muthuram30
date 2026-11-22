@@ -7,6 +7,8 @@ I build projects that connect hardware, software, and measurement. My work spans
 
 [LinkedIn](https://www.linkedin.com/in/muthuraman-m326/) · [Instagram](https://www.instagram.com/muthuram_326/) · [All repositories](https://github.com/Muthuram30?tab=repositories)
 
+[`Python`](https://github.com/topics/python) · [`Embedded Systems`](https://github.com/topics/embedded-systems) · [`Linux`](https://github.com/topics/linux) · [`ESP32`](https://github.com/topics/esp32) · [`Robotics`](https://github.com/topics/robotics) · [`MATLAB`](https://github.com/topics/matlab)
+
 ## Featured projects
 
 | Project | What it does | Tools |
@@ -18,9 +20,10 @@ I build projects that connect hardware, software, and measurement. My work spans
 | **[Dual-Axis Solar Tracker](https://github.com/Muthuram30/Solar_tracker)** | Uses four light-dependent resistors and two servo motors to orient a solar panel toward the brightest direction. | ESP32, LDRs, servo control |
 | **[TravelEase](https://github.com/Muthuram30/TravelEase)** | A tourism platform for exploring Indian destinations, booking tour packages, and getting explainable recommendations. | React, PHP, MySQL, MapLibre GL |
 
-<p>
-  <a href="https://github.com/Muthuram30/Can_ids"><img src="https://raw.githubusercontent.com/Muthuram30/Can_ids/main/docs/images/hardware-setup-1.jpeg" alt="CAN IDS bench prototype with Raspberry Pi, CAN modules, and sensors" width="46%"></a>
-  <a href="https://github.com/Muthuram30/Linux_Syscall_Tracer"><img src="https://raw.githubusercontent.com/Muthuram30/Linux_Syscall_Tracer/main/docs/images/activity-process-events.jpg" alt="Linux Syscall Tracer dashboard showing captured events and process information" width="46%"></a>
+<p align="center">
+  <a href="https://github.com/Muthuram30/Can_ids"><img src="./can-ids-preview.jpg" alt="CAN IDS vehicle prototype showing the wiring and microcontrollers" width="32%"></a>
+  <a href="https://github.com/Muthuram30/Linux_Syscall_Tracer"><img src="./linux-tracer-preview.jpg" alt="Linux Syscall Tracer dashboard showing activity charts and captured events" width="32%"></a>
+  <a href="https://github.com/Muthuram30/Solar_tracker"><img src="./solar-tracker-preview.jpg" alt="Dual-axis solar tracker prototype with its control board and wiring" width="32%"></a>
 </p>
 
 ## Other projects
